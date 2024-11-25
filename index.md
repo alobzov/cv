@@ -38,6 +38,8 @@ I'm systems analysis professional, public speaker and author with more than 7 ye
 
 ## Public Speaking
 
+**Analyst Days #19**, [Time For A Changes](https://analystdays.ru/en/talk/126347), Discussion (RU)
+
 [**Banks IT Day 2024**](https://www.tadviser.ru/index.php/%D0%9A%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D1%8F:Banks_IT_Day_2024_2), Developer's tools and practices for technical documentation, Report (Ru)
 
 **Flow 2024 Autumn**, [Areas in Which an Analyst Can Apply LLM and Get a Boost to Their Productivity](https://flowconf.ru/en/talks/c8b411fa261144ebb4ee22c57c4e3647/), Discussion (Ru)
